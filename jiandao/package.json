@@ -1,0 +1,12 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "剪刀石头布游戏",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}
